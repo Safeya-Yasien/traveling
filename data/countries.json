@@ -1,0 +1,154 @@
+[
+  {
+    "country": "Palestine",
+    "countryCoverImg": "imgs/country-2.jpg",
+    "ticketPrice": 1000,
+    "cities": [
+      {
+        "city": "Ramallah",
+        "hotels": [
+          {
+            "name": "Royal Court Hotel Ramallah",
+            "img": "imgs/palstine/Royal Court Hotel Ramallah.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Ocean Grand Hotel - Ramallah",
+            "img": "imgs/palstine/Ocean Grand Hotel - Ramallah.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Palestine Plaza Hotel Ramallah",
+            "img": "imgs/palstine/Palestine Plaza Hotel Ramallah.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      },
+      {
+        "city": "Bethlehem",
+        "hotels": [
+          {
+            "name": "Zaatar House Bethlehem",
+            "img": "imgs/palstine/Zaatar House Bethlehem.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Dar Al Mauge Boutique Hotel Bethlehem",
+            "img": "imgs/palstine/Dar Al Mauge Boutique Hotel Bethlehem.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "countryCoverImg": "imgs/country-1.jpg",
+    "ticketPrice": 900,
+    "cities": [
+      {
+        "city": "Cairo",
+        "hotels": [
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Oman",
+    "countryCoverImg": "imgs/country-3.jpg",
+    "ticketPrice": 500,
+    "cities": [
+      {
+        "city": "Masqaţ",
+        "hotels": [
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Qatar",
+    "countryCoverImg": "imgs/country-4.jpg",
+    "ticketPrice": 400,
+    "cities": [
+      {
+        "city": "Doha",
+        "hotels": [
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Syria",
+    "countryCoverImg": "imgs/country-5.jpg",
+    "ticketPrice": 700,
+    "cities": [
+      {
+        "city": "Damascus",
+        "hotels": [
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Yemen",
+    "countryCoverImg": "imgs/country-6.jpg",
+    "ticketPrice": 1200,
+    "cities": [
+      {
+        "city": "Sanaa",
+        "hotels": [
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          },
+          {
+            "name": "Valencia-Hotel-Cairo",
+            "img": "imgs/cairo/Valencia-Hotel-Cairo.jpg",
+            "description": "This hotel is located in a central location in the heart of Ramallah, a 10-minute walk from the Khalil Sakakini Cultural Center. All spacious rooms and suites feature a balcony and a flat-screen TV. All rooms at Royal Court Hotel include a private bathroom with bathrobes and free toiletries. A free breakfast buffet is available to guests in the restaurant, which also serves à la carte meals. It also offers room service upon request. Royal Court offers a range of facilities from its 24-hour front desk, including booking information for tours, airport shuttles, and car rentals. Free parking is also available."
+          }
+        ]
+      }
+    ]
+  }
+]

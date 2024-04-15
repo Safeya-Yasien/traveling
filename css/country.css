@@ -1,0 +1,101 @@
+/* best hotels */
+.best-hotels,
+.booking {
+  padding: 60px 0;
+}
+
+.best-hotels .hotel {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  overflow: hidden;
+  box-shadow: 0px 8px 10px #021a1d;
+  transition: 0.8s;
+  cursor: default;
+}
+
+.best-hotels .hotel:hover {
+  box-shadow: 0px 25px 15px #021a1d;
+  transform: translateY(-10px);
+}
+
+.best-hotels .hotel > div {
+  flex: 1;
+}
+
+.best-hotels .hotel .text {
+  padding: 20px;
+}
+
+.best-hotels .hotel .text h4 {
+  color: var(--main-color);
+  margin-bottom: 20px;
+}
+
+.best-hotels .hotel .text p {
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.best-hotels .hotel img {
+  width: 100%;
+}
+
+/* booking */
+.booking {
+  background-color: var(--black-color);
+}
+
+.booking h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.booking form {
+  color: var(--text-color);
+}
+
+.booking .booking-item:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.booking label {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.booking form input,
+.booking form select {
+  background-color: var(--black-color);
+  border: 0;
+  border-bottom: 2px solid var(--white-color);
+  color: var(--white-color);
+  border-radius: 0;
+}
+
+.booking form input:focus,
+.booking form select:focus {
+  outline: none;
+  box-shadow: none;
+  background-color: var(--black-color);
+  color: var(--white-color);
+  border-color: var(--main-color);
+}
+
+.booking form button {
+  background-color: var(--main-color);
+  color: var(--white-color);
+  border: none;
+  outline: none;
+}
+
+@media (max-width: 767px) {
+  .booking form button {
+    width: 100%;
+  }
+}
+
+.booking img {
+  width: 100%;
+}
