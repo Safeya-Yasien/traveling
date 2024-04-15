@@ -10,7 +10,7 @@
 
 - bootstrap <br>
 
-## idea from
+## ÷dea from
 
 https://github.com/devMohamed12/traveling
 <br >
